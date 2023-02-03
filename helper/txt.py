@@ -74,5 +74,5 @@ Example:- /set_caption 📕 File Name: {filename}
 <b><u>Special Thanks all</b></u> 
 
 » 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷 : <a href=https://t.me/tvseriezzz_chats>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 😎 : <a href=https:t.me/MrC_VENOM'>༒𝙼𝚛𝙲《》𝚅𝙴𝙽𝙾𝙼༒</a>
+» 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 😎 : <a href=https//t.me/MrC_VENOM>༒𝙼𝚛𝙲《》𝚅𝙴𝙽𝙾𝙼༒</a>
 """
